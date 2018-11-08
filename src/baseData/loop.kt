@@ -5,7 +5,6 @@ fun main(args: Array<String>){
     for (item in items) {
         println(item)
     }
-
     for (index in items.indices) {
         println("item at $index is ")
     }
